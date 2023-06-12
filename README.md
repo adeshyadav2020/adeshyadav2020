@@ -36,7 +36,7 @@ I am an enthusiastic Indian self-taught frontend developer and problem solver. I
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=adeshyadav2020&line_height=40&theme=dark">
 </div>
 
-## **Reach out to me :** 📫
+## **Reach out to me. :** 📫
   <p>
     <a target="_blank"href="https://www.linkedin.com/in/adesh-pramod-yadav-341704152/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;t
     <a href="mailto:adesh.pramod2020@vitbhopal.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
