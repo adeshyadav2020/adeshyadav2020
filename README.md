@@ -9,7 +9,7 @@
 - 📫 How to reach me: @adeshyadav on Twitter
 
 ## **About Me :** 👦
-I am an enthusiastic Indian self-taught web developer and problem solver. I am a motivated individual with a strong passion for frontend development and data structures and algorithms, who has achieved self-taught proficiency in both areas.
+I am an enthusiastic Indian self-taught Web developer and problem solver. I am a motivated individual with a strong passion for frontend development and data structures and algorithms, who has achieved self-taught proficiency in both areas.
 ## **Tech Stack :**
 <!-- -->
 <code><img height="33" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
